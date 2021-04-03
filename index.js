@@ -5,7 +5,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 // DATA is the object that contains
 // all data provided to Mustache
 let DATA = {
-    name: '<b>Robert</b>',
+    name: 'Robert',
 };
 
 const generateReadMe = () => {

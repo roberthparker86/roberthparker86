@@ -1,1 +1,1 @@
-Hi, my name is &lt;b&gt;Robert&lt;&#x2F;b&gt;! I am an animator turned developer, with a focus on MERN stack.
+Hi, my name is Robert! I am an animator turned developer, with a focus on MERN stack.
