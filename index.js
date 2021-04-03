@@ -5,16 +5,7 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 // DATA is the object that contains
 // all data provided to Mustache
 let DATA = {
-    name: 'Robert',
-    date: new Date().toLocaleDateString('en-US', {
-        weekday: 'long',
-        month: 'long',
-        day:'numeric',
-        hour: 'numeric',
-        minute: 'numeric',
-        timeZoneName: 'short',
-        timeZone: 'America/Chicago'
-    })
+    name: '<b>Robert</b>',
 };
 
 const generateReadMe = () => {
